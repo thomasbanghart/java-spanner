@@ -1,5 +1,17 @@
 # Changelog
 
+## [6.8.0](https://www.github.com/googleapis/java-spanner/compare/v6.7.0...v6.8.0) (2021-06-24)
+
+
+### Features
+
+* spanner JSON type ([#1260](https://www.github.com/googleapis/java-spanner/issues/1260)) ([b2a56c6](https://www.github.com/googleapis/java-spanner/commit/b2a56c68695b6209e20f9f86d83d7c5a0f39c7a8))
+
+
+### Bug Fixes
+
+* Add `shopt -s nullglob` to dependencies script ([#1256](https://www.github.com/googleapis/java-spanner/issues/1256)) ([d1712f7](https://www.github.com/googleapis/java-spanner/commit/d1712f7c51752c2359045e5eabac8fc0530a2421))
+
 ## [6.7.0](https://www.github.com/googleapis/java-spanner/compare/v6.6.1...v6.7.0) (2021-06-21)
 
 
